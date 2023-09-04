@@ -1,6 +1,7 @@
 h1 {
     color: orange;
     font-weight: bold;
+    border: 5px black solid;
 }
 span {
     color: purple;
